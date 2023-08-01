@@ -21,7 +21,11 @@ Regamedll_CS is a result of reverse engineering of original library mod HLDS (bu
 ## Downloads
 * [Release builds](https://github.com/s1lentq/ReGameDLL_CS/releases)
 * [Dev builds](https://github.com/s1lentq/ReGameDLL_CS/actions/workflows/build.yml)
-
+## Downloads
+* [Release builds](https://github.com/s1lentq/ReGameDLL_CS/releases)
+* [Dev builds](https://github.com/s1lentq/ReGameDLL_CS/actions/workflows/build.yml)## Downloads
+* [Release builds](https://github.com/s1lentq/ReGameDLL_CS/releases)
+* [Dev builds](https://github.com/s1lentq/ReGameDLL_CS/actions/workflows/build.yml)
 <b>Warning!</b> ReGameDLL_CS is not binary compatible with original hlds since it's compiled with compilers other than ones used for original mod CS.
 This means that plugins that do binary code analysis (Orpheu for example) probably will not work with ReGameDLL_CS.
 
