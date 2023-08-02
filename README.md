@@ -9,11 +9,7 @@ Regamedll_CS is a result of reverse engineering of original library mod HLDS (bu
 ## How can use it?
 Arrested capital))))
 ReGameDLL_CS is fully compatible with 
-## What is this?
-Regamedll_CS is a result of reverse engineering of original library mod HLDS (build 6153beta) using DWARF debug info embedded into linux version of HLDS, cs.so
-
-## Goals of the project
-* Provide more stable (than official) version of Counter-Strike game gaming with extended API for mods and plugins
+## What is this?ion of Counter-Strike game gaming with extended API for mods and plugins
 
 ## How can use it?official mod CS 1.6 / CZero by Valve. All you have to do is to download binaries and replace original mp.dll/cs.so
 
