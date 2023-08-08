@@ -13,11 +13,6 @@ Arrested capital))))ll you have to do is to download binaries and replace origin
 * [Release builds](https://github.com/s1lentq/ReGameDLL_CS/releases)
 * [Dev builds](https://github.com/s1lentq/ReGameDLL_CS/actions/workflows/build.yml)
 ## Downloads
-* [Release builds](https://github.com/s1lentq/ReGameDLL_CS/releases)
-* [Dev builds](https://github.com/s1lentq/ReGameDLL_CS/actions/workflows/build.yml)## Downloads
-* [Release builds](https://github.com/s1lentq/ReGameDLL_CS/releases)al version of Counter-Strike.</pre>
-* Enter `-beta` option at the command line HLDS.
-
 ## Commands
 | Command                             | Description                                     |
 | :---------------------------------- | :---------------------------------------------- |
